@@ -17,7 +17,12 @@
 
 ## Installation 
 1. Watch video tutorial [here](https://youtu.be/rg6akVMLsus)
-2. You can download RISH file [here](https://www.mediafire.com/file/rgq99pub91alnxo/RISH.zip/file) already edited.
+2. You can download RISH file [here](https://www.mediafire.com/file/rgq99pub91alnxo/RISH.zip/file) already edited. Or you can clone my repository via termux. Open termux and enter 
+```bash
+pkg install git -y
+cd /storage/emulated/0
+git clone https://github.com/Mirai0009/Get-Url-via-Shizuku-Termux-.git
+```
 3. Extract RISH.zip to internal storage 
 4. Open Termux and enter `termux-setup-storage` and allow permission 
 5. Enter `sh /sdcard/RISH/rish`
