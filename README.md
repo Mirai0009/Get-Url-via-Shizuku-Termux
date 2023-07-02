@@ -21,7 +21,7 @@
 ```bash
 pkg install git -y
 cd /storage/emulated/0
-git clone https://github.com/Mirai0009/Get-Url-via-Shizuku-Termux-.git
+git clone https://github.com/Mirai0009/Get-Url-via-Shizuku-Termux.git
 ```
 3. Extract RISH.zip to internal storage 
 4. Open Termux and enter `termux-setup-storage` and allow permission 
