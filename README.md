@@ -7,7 +7,7 @@
 <a href="https://github.com/Mirai0009"><img title="Author" src="https://img.shields.io/badge/Author-Mirai-pink.svg?style=for-the-badge&logo=github"></a>
 
 
-**This method Still Beta not guaranteed working for Vivo/iqoo phone.**
+*This method not support for all vivo/iqoo phone*
 
 ## Required 
 1. Download Termux from [Playstore](https://play.google.com/store/apps/details?id=com.termux)
