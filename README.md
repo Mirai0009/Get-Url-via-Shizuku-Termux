@@ -17,12 +17,7 @@
 
 ## Installation 
 1. Watch video tutorial [here](https://youtu.be/rg6akVMLsus)
-2. You can download RISH file [here](https://www.mediafire.com/file/rgq99pub91alnxo/RISH.zip/file) already edited. Or you can clone my repository via termux. Open termux and enter 
-```bash
-pkg install git -y
-cd /storage/emulated/0
-git clone https://github.com/Mirai0009/Get-Url-via-Shizuku-Termux.git
-```
+2. You can download RISH file [here](https://www.mediafire.com/file/rgq99pub91alnxo/RISH.zip/file) already edited.
 3. Extract RISH.zip to internal storage 
 4. Open Termux and enter `termux-setup-storage` and allow permission 
 5. Enter `sh /sdcard/RISH/rish`
@@ -31,7 +26,14 @@ git clone https://github.com/Mirai0009/Get-Url-via-Shizuku-Termux.git
 ```bash
 logcat -e https://webstatic-sea.hoyoverse.com/
 ```
-7. Open Genshin/HSR And go wish history and link will be appear in termux 
+7. Open **Genshin/HSR** And go wish history and link will be appear in termux
+
+## Note
+- For **Xiaomi users** you need to **enable USB Debugging** on developer options
+<img src="https://telegra.ph/file/59419be867a69bca89814.jpg" width=130px>
+
+- For **Realme, Oppo & OnePlus** you need to **disable permission monitoring** on developer options
+<img src="https://telegra.ph/file/b7bda05971367c0c67dad.jpg" width=130px>
 
 ## Support me❤️
  
