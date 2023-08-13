@@ -10,10 +10,10 @@
 *This method not support for all vivo/iqoo phone*
 
 ## Required 
-1. Download Termux from [Playstore](https://play.google.com/store/apps/details?id=com.termux)
-2. Download Shizuku from [Playstore](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)
-3. Need WiFi or Hotspot 
-4. Android 11+
+1. Download **Termux** from [F-droid](https://f-droid.org/repo/com.termux_118.apk)
+2. Download **Shizuku** from [Playstore](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)
+3. Need **WiFi or Hotspot** 
+4. **Android 11+**
 
 ## Installation 
 1. Watch video tutorial [here](https://youtu.be/rg6akVMLsus)
@@ -22,8 +22,8 @@
 <img src="https://telegra.ph/file/1fa5abc92b383cd4b0ea7.jpg" width=130px>
   
 5. Open **Termux** and enter `termux-setup-storage` and allow permission (**only for first setup**)
-6. Enter `sh /sdcard/RISH/rish`
-7. Copy and enter
+6. Enter `sh /sdcard/RISH/rish` (**allow permission**)
+7. **Copy and enter**
 
 ```bash
 logcat -e https://webstatic-sea.hoyoverse.com/
