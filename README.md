@@ -28,7 +28,8 @@
 ```bash
 logcat -e https://webstatic-sea.hoyoverse.com/
 ```
-7. Open **Genshin/HSR** And go wish history and link will be appear in termux
+8. Make floating/split screen and then 
+9. Open **Genshin/HSR** And go wish history and link will be appear in termux
 
 ## Note
 - For **Xiaomi users** you need to **enable USB Debugging** on developer options
