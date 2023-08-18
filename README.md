@@ -32,7 +32,7 @@ logcat -e https://webstatic-sea.hoyoverse.com/
 9. Open **Genshin/HSR** And go wish history and link will be appear in termux
 
 ## Note
-- For **Xiaomi users** you need to **enable USB Debugging** on developer options
+- **Enable USB Debugging** on developer options
 <img src="https://telegra.ph/file/59419be867a69bca89814.jpg" width=130px>
 
 - For **Realme, Oppo & OnePlus** you need to **disable permission monitoring** on developer options
