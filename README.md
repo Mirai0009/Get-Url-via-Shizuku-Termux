@@ -31,6 +31,15 @@ logcat -e https://webstatic-sea.hoyoverse.com/
 8. Make floating/split screen and then 
 9. Open **Genshin/HSR** And go wish history and link will be appear in termux
 
+### Link example
+This example link can be used
+- **Genshin**
+  Copy `https:// until global/log`
+- **HSR**
+  Copy `https:// until hkrpg_global`
+  
+<img src="https://telegra.ph/file/6d1fe840d1a686b2895be.jpg" width=130px>
+
 ## Note
 - **Enable USB Debugging** on developer options
 <img src="https://telegra.ph/file/59419be867a69bca89814.jpg" width=130px>
