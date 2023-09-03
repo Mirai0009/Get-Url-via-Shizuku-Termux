@@ -7,7 +7,7 @@
 <a href="https://github.com/Mirai0009"><img title="Author" src="https://img.shields.io/badge/Author-Mirai-pink.svg?style=for-the-badge&logo=github"></a>
 
 
-*This method not support for all vivo/iqoo phone*
+**This method not support for all vivo/iqoo phone**
 
 ## Required 
 1. Download **Termux** from [F-droid](https://f-droid.org/repo/com.termux_118.apk)
@@ -22,7 +22,7 @@
 <img src="https://telegra.ph/file/1fa5abc92b383cd4b0ea7.jpg" width=130px>
   
 5. Open **Termux** and enter `termux-setup-storage` and allow permission (**only for first setup**)
-6. Enter `sh /sdcard/RISH/rish` (**allow permission**)
+6. Enter `sh /sdcard/RISH/rish` or `sh /storage/emulated/0/RISH/rish` (**allow permission**)
 7. **Copy and enter**
 
 ```bash
