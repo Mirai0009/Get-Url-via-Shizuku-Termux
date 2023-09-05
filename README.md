@@ -17,7 +17,7 @@
 
 ## Installation 
 1. Watch video tutorial [here](https://youtu.be/rg6akVMLsus)
-2. You can download RISH file [here](https://www.mediafire.com/file/rgq99pub91alnxo/RISH.zip/file) already edited.
+2. You can skip part editing file and download RISH file already edited [here](https://www.mediafire.com/file/rgq99pub91alnxo/RISH.zip/file)
 3. Extract **RISH.zip** to internal storage
 <img src="https://telegra.ph/file/1fa5abc92b383cd4b0ea7.jpg" width=130px>
   
