@@ -16,7 +16,7 @@
 4. **Android 11+**
 
 ## Installation 
-1. Watch video tutorial [here](https://youtu.be/rg6akVMLsus)
+1. Watch video
 2. You can skip part editing file and download RISH file already edited [here](https://www.mediafire.com/file/rgq99pub91alnxo/RISH.zip/file)
 3. Extract **RISH.zip** to internal storage
 <img src="https://telegra.ph/file/1fa5abc92b383cd4b0ea7.jpg" width=130px>
@@ -46,6 +46,19 @@ This example link can be used
 
 - For **Realme, Oppo & OnePlus** you need to **disable permission monitoring** on developer options
 <img src="https://telegra.ph/file/b7bda05971367c0c67dad.jpg" width=130px>
+
+## WATCH TUTORIAL HERE
+Don't forgot like my video ❤️
+ 
+[Star Rail Station tutorial](https://youtu.be/JvKu4-On2Zk?si=NZPZs1Vd2LMAPUY5)
+
+<p align="center">
+
+  <a href="https://youtu.be/JvKu4-On2Zk?si=NZPZs1Vd2LMAPUY5"><img src="https://telegra.ph/file/308c8ae0525ae11e9eebf.jpg" />
+
+</p>
+
+<br>
 
 ## Support me❤️
  
