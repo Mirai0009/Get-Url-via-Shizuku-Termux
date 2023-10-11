@@ -24,9 +24,13 @@
 5. Open **Termux** and enter `termux-setup-storage` and allow permission (**only for first setup**)
 6. Enter `sh /sdcard/RISH/rish` or `sh /storage/emulated/0/RISH/rish` (**allow permission**)
 7. **Copy and enter**
-
+- **Genshin**
 ```bash
 logcat -e https://webstatic-sea.hoyoverse.com/
+```
+- **Honkai Star Rail**
+```bash
+logcat -e https://gs.hoyoverse.com/
 ```
 8. Make floating/split screen and then 
 9. Open **Genshin/HSR** And go wish history and link will be appear in termux
