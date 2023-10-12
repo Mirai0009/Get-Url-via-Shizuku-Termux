@@ -51,6 +51,9 @@ This example link can be used
 - For **Realme, Oppo & OnePlus** you need to **disable permission monitoring** on developer options
 <img src="https://telegra.ph/file/b7bda05971367c0c67dad.jpg" width=130px>
 
+- **For Xiaomi user** you need change notification style to **Android**
+<img src="https://telegra.ph/file/6ea55b1a4c751cd1a3f27.jpg"/>
+  
 ## WATCH TUTORIAL HERE
 Don't forgot like my video ❤️
  
