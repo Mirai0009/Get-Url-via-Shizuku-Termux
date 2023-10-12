@@ -52,7 +52,7 @@ This example link can be used
 <img src="https://telegra.ph/file/b7bda05971367c0c67dad.jpg" width=130px>
 
 - **For Xiaomi user** you need change notification style to **Android**
-<img src="https://telegra.ph/file/6ea55b1a4c751cd1a3f27.jpg"/>
+<img src="https://telegra.ph/file/9d4523ac9084cfe0ae618.jpg"/>
   
 ## WATCH TUTORIAL HERE
 Don't forgot like my video ❤️
