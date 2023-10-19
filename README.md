@@ -17,7 +17,7 @@
 
 ## Installation 
 1. Watch video
-2. You can skip part editing file and download RISH file already edited [here](https://drive.google.com/file/d/19N_vr4yxGgo9CHL5hY1DbXyx3krj2cUL/view?usp=drivesdk)
+2. You can skip part editing file and download RISH file already edited [here](https://mega.nz/file/N9cCARhT#GD8Jy6aR9hAAHA1tNxHwaqGtnmf8K_mj2YZO_39E-vU)
 3. Extract **RISH.zip** to internal storage
 <img src="https://telegra.ph/file/1fa5abc92b383cd4b0ea7.jpg" width=130px>
   
