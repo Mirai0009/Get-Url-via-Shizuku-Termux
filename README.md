@@ -20,7 +20,7 @@
 2. For **user root** you can tap this and **allow Superuser permissions**
 <img src="https://telegra.ph/file/668fecc6d1056e839c5c0.jpg" width=130px>
 
-3. You can skip part editing file and download RISH file already edited [here](https://mega.nz/file/N9cCARhT#GD8Jy6aR9hAAHA1tNxHwaqGtnmf8K_mj2YZO_39E-vU)
+3. You can skip part editing file and download RISH file already edited [here](https://github.com/Mirai0009/Get-Url-via-Shizuku-Termux/releases/download/v1.0.0/RISH.zip)
 4.  Extract **RISH.zip** to internal storage
 <img src="https://telegra.ph/file/1fa5abc92b383cd4b0ea7.jpg" width=130px>
 
