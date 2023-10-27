@@ -17,7 +17,7 @@
 
 ## Installation 
 1. Watch video for **non root** phone
-2. For **user root** you tap this and **allow Superuser permissions**
+2. For **user root** you can tap this and **allow Superuser permissions**
 <img src="https://telegra.ph/file/668fecc6d1056e839c5c0.jpg" width=130px>
 
 3. You can skip part editing file and download RISH file already edited [here](https://mega.nz/file/N9cCARhT#GD8Jy6aR9hAAHA1tNxHwaqGtnmf8K_mj2YZO_39E-vU)
