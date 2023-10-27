@@ -16,11 +16,14 @@
 4. **Android 11+**
 
 ## Installation 
-1. Watch video
-2. You can skip part editing file and download RISH file already edited [here](https://mega.nz/file/N9cCARhT#GD8Jy6aR9hAAHA1tNxHwaqGtnmf8K_mj2YZO_39E-vU)
-3. Extract **RISH.zip** to internal storage
+1. Watch video for **non root** phone
+2. For **user root** you tap this and **allow Superuser permissions**
+<img src="https://telegra.ph/file/668fecc6d1056e839c5c0.jpg" width=130px>
+
+3. You can skip part editing file and download RISH file already edited [here](https://mega.nz/file/N9cCARhT#GD8Jy6aR9hAAHA1tNxHwaqGtnmf8K_mj2YZO_39E-vU)
+4.  Extract **RISH.zip** to internal storage
 <img src="https://telegra.ph/file/1fa5abc92b383cd4b0ea7.jpg" width=130px>
-  
+
 5. Open **Termux** and enter `termux-setup-storage` and allow permission (**only for first setup**)
 6. Enter `sh /sdcard/RISH/rish` or `sh /storage/emulated/0/RISH/rish` (**allow permission**)
 7. **Copy and enter**
@@ -49,9 +52,11 @@ This example link can be used
 <img src="https://telegra.ph/file/59419be867a69bca89814.jpg" width=130px>
 
 - For **Realme, Oppo & OnePlus** you need to **disable permission monitoring** on developer options
+
 <img src="https://telegra.ph/file/b7bda05971367c0c67dad.jpg" width=130px>
 
 - **For Xiaomi user** you need change notification style to **Android**
+
 <img src="https://telegra.ph/file/9d4523ac9084cfe0ae618.jpg"/>
   
 ## WATCH TUTORIAL HERE
