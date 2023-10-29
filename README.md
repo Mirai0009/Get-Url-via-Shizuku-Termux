@@ -20,13 +20,16 @@
 2. For **user root** you can tap this and **allow Superuser permissions**
 <img src="https://telegra.ph/file/668fecc6d1056e839c5c0.jpg" width=130px>
 
-3. You can skip part editing file and download RISH file already edited [here](https://github.com/Mirai0009/Get-Url-via-Shizuku-Termux/releases/download/v1.0.0/RISH.zip)
-4.  Extract **RISH.zip** to internal storage
+3. **Pairing steps only for once time, Next use, simply enable wireless debugging and tap start in shizuku**
+
+4. You can **skip part editing file and download RISH file already edited** [here](https://github.com/Mirai0009/Get-Url-via-Shizuku-Termux/releases/download/v1.0.0/RISH.zip)
+
+5.Extract **RISH.zip** to internal storage
 <img src="https://telegra.ph/file/1fa5abc92b383cd4b0ea7.jpg" width=130px>
 
-5. Open **Termux** and enter `termux-setup-storage` and allow permission (**only for first setup**)
-6. Enter `sh /sdcard/RISH/rish` or `sh /storage/emulated/0/RISH/rish` (**allow permission**)
-7. **Copy and enter**
+7. Open **Termux** and enter `termux-setup-storage` and allow permission (**only for first setup**)
+8. Enter `sh /sdcard/RISH/rish` or `sh /storage/emulated/0/RISH/rish` (**allow permission**)
+9. **Copy and enter**
 - **Genshin**
 ```bash
 logcat -e https://webstatic-sea.hoyoverse.com/
