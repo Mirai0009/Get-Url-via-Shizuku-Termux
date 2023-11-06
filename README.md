@@ -25,7 +25,7 @@
 4. You can **skip part editing file and download RISH file already edited** [here](https://github.com/Mirai0009/Get-Url-via-Shizuku-Termux/releases/download/v1.0.0/RISH.zip)
 
 5.Extract **RISH.zip** to internal storage
-<img src="https://telegra.ph/file/1fa5abc92b383cd4b0ea7.jpg" width=130px>
+<img src="https://telegra.ph/file/620d8d2ba577d1dff27f6.jpg" width=130px>
 
 7. Open **Termux** and enter `termux-setup-storage` and allow permission (**only for first setup**)
 8. Enter `sh /sdcard/RISH/rish` or `sh /storage/emulated/0/RISH/rish` (**allow permission**)
