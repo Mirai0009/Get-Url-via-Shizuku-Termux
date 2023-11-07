@@ -27,9 +27,24 @@
 5.Extract **RISH.zip** to internal storage
 <img src="https://telegra.ph/file/620d8d2ba577d1dff27f6.jpg" width=180px>
 
-7. Open **Termux** and enter `termux-setup-storage` and allow permission (**only for first setup**)
-8. Enter `sh /sdcard/RISH/rish` or `sh /storage/emulated/0/RISH/rish` (**allow permission**)
-9. **Copy and enter**
+6. Open **Termux** and enter
+```bash
+termux-setup-storage
+```
+and allow permission (**only for first setup**)
+
+7. **Enter**
+```bash
+sh /sdcard/RISH/rish
+```
+**or**
+```bash
+sh /storage/emulated/0/RISH/rish
+```
+(**allow permission**)
+
+8. **Copy and enter**
+
 - **Genshin**
 ```bash
 logcat -e https://webstatic-sea.hoyoverse.com/
@@ -38,8 +53,8 @@ logcat -e https://webstatic-sea.hoyoverse.com/
 ```bash
 logcat -e https://gs.hoyoverse.com/
 ```
-8. Make floating/split screen and then 
-9. Open **Genshin/HSR** And go wish history and link will be appear in termux
+9. Make floating/split screen and then 
+10. Open **Genshin/HSR** And go wish history and link will be appear in termux
 
 ### Link example
 This example link can be used
