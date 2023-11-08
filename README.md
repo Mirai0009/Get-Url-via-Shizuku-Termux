@@ -45,14 +45,11 @@ sh /storage/emulated/0/RISH/rish
 
 8. **Copy and enter**
 
-- **Genshin**
-```bash
-logcat -e https://webstatic-sea.hoyoverse.com/
-```
-- **Honkai Star Rail**
+- **Genshin & Honkai Star Rail**
 ```bash
 logcat -e https://gs.hoyoverse.com/
 ```
+
 9. Make floating/split screen and then 
 10. Open **Genshin/HSR** And go wish history and link will be appear in termux
 
