@@ -16,7 +16,7 @@
 4. **Android 11+**
 
 ## Installation 
-1. Watch video for **non root** phone
+1. [**Watch video**](https://github.com/Mirai0009/Get-Url-via-Shizuku-Termux#watch-tutorial-here) for **non root** phone
 2. For **user root** you can tap this and **allow Superuser permissions**
 <img src="https://telegra.ph/file/668fecc6d1056e839c5c0.jpg" width=130px>
 
