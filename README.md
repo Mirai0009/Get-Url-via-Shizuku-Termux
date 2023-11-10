@@ -14,8 +14,10 @@
 2. Download **Shizuku** from [Playstore](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)
 3. Need **WiFi or Hotspot** 
 4. **Android 11+**
+5. Turn on first developer setting your phone [**How to turn on**](https://developer.android.com/studio/debug/dev-options)
 
 ## Installation 
+**BEFORE STARTING, PLEASE READ ALL INSTRUCTIONS**
 1. [**Watch video**](https://github.com/Mirai0009/Get-Url-via-Shizuku-Termux#watch-tutorial-here) for **non root** phone
 2. For **user root** you can tap this and **allow Superuser permissions**
 <img src="https://telegra.ph/file/668fecc6d1056e839c5c0.jpg" width=130px>
