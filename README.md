@@ -83,7 +83,7 @@ Don't forgot like my video ❤️
 
 <p align="center">
 
-  <a href="https://youtu.be/JvKu4-On2Zk?si=NZPZs1Vd2LMAPUY5"><img src="https://telegra.ph/file/308c8ae0525ae11e9eebf.jpg" />
+  <a href="https://youtu.be/JvKu4-On2Zk?si=NZPZs1Vd2LMAPUY5"><img src="https://telegra.ph/file/ad5e51004a4869122f8bf.jpg" />
 
 </p>
 
